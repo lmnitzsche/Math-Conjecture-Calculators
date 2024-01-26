@@ -1,4 +1,4 @@
-print("Welcome to our Twin Prime Conjecture Calculator")
+print("\nWelcome to our Twin Prime Conjecture Calculator\n")
 
 def is_prime(num):
     if num < 2:
