@@ -1,3 +1,5 @@
+print("Welcome to our Twin Prime Conjecture Calculator")
+
 def is_prime(num):
     if num < 2:
         return False
