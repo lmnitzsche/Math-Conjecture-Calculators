@@ -1,5 +1,3 @@
-print("Zayne Bonner Change")
-
 def is_prime(num):
     if num < 2:
         return False
