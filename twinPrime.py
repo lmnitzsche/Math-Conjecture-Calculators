@@ -18,4 +18,5 @@ def find_twin_primes(limit):
 limit = int(input("Enter the limit to find twin primes up to: "))
 result = find_twin_primes(limit)
 
+print("\nProcessing... This Simulation was Created by Logan Nitzsche and Zayne Bonner\n\n")
 print(f"Twin primes up to {limit}: {result}")
