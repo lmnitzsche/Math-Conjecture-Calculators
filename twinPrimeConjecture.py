@@ -1,3 +1,6 @@
+import os
+
+os.system('clear')
 print("Welcome to our Twin Prime Conjecture Calculator")
 
 def is_prime(num):
